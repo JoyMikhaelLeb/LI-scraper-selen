@@ -28,7 +28,7 @@ Author: joy
 Optimized: Oct 2025
 """
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'spherical-list-284723-216944ab15f1.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'key.json'
 import time
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import (
