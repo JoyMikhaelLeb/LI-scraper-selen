@@ -1,0 +1,7 @@
+{
+  "firestore_certificate": "path/to/serviceAccount.json",
+  "email": "your-worker-account@gmail.com",
+  "headless_chrome": true,
+  "batch_size": 5,
+  "log_level": "info"
+}
